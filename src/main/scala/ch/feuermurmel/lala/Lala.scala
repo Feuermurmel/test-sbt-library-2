@@ -4,7 +4,7 @@ import ch.feuermurmel.blubb.Blubb
 
 object Lala {
   def lala(): Unit = {
-    println("Lala.")
+    println("Lala..")
     Blubb.blubb()
   }
 }
